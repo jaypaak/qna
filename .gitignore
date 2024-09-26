@@ -37,4 +37,4 @@ out/
 .vscode/
 
 # yml file
-resources/application.yml
+src/main/resources/application.yml
